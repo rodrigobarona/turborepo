@@ -332,4 +332,13 @@ export const users = [
     infoLink: "https://waggel.co.uk",
     pinned: true,
   },
+    {
+    caption: "Wunderman Thompson",
+    image: "/images/logos/wundermanthompson.svg",
+    infoLink: "https://wundermanthompson.com",
+    style: {
+      width: 150,
+    },
+    pinned: true,
+  },
 ];
